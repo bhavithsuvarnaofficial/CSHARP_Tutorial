@@ -1,0 +1,15 @@
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/bin/Debug/net10.0/firstprogram
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/bin/Debug/net10.0/firstprogram.deps.json
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/bin/Debug/net10.0/firstprogram.runtimeconfig.json
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/bin/Debug/net10.0/firstprogram.dll
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/bin/Debug/net10.0/firstprogram.pdb
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/obj/Debug/net10.0/firstprogram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/obj/Debug/net10.0/firstprogram.AssemblyInfoInputs.cache
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/obj/Debug/net10.0/firstprogram.AssemblyInfo.cs
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/obj/Debug/net10.0/firstprogram.csproj.CoreCompileInputs.cache
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/obj/Debug/net10.0/firstprogram.sourcelink.json
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/obj/Debug/net10.0/firstprogram.dll
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/obj/Debug/net10.0/refint/firstprogram.dll
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/obj/Debug/net10.0/firstprogram.pdb
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/obj/Debug/net10.0/firstprogram.genruntimeconfig.cache
+/Users/bhavith/Documents/GitHub/CSHARP_Tutorial/firstprogram/obj/Debug/net10.0/ref/firstprogram.dll
